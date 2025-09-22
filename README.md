@@ -189,4 +189,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-*Built with ❤️ using React, Python, and Node.js*
+*Built with ❤️ using React, Python, and Node.js*# automated-resume-and-job-matcher
